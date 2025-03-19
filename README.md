@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/AffectAI/MGNN/raw/main/resources/main.png" height="300px"/>
+  <img src="https://github.com/AffectAI/MGNN/raw/main/resources/main.png" height="250px"/>
     <p style="font-size:1.5vw;">Pipeline of our DepMGNN</p>
 </div>
 
