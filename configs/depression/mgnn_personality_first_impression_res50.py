@@ -4,7 +4,7 @@ model = dict(
     type='Recognizer2DGNN',
     backbone=dict(
         type='ResNet',
-        pretrained='./pertrained_models/resnet50_ft_weight.pth',
+        pretrained='./pretrained_models/resnet50_ft_weight.pth',
         depth=50,
         out_indices=(0, 1, 2, 3),
         norm_cfg=dict(type='BN2d', requires_grad=True), 
