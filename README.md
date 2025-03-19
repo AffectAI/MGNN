@@ -81,6 +81,7 @@ pip install -v -e .
 1. Apply for and download the AVEC2013, AVEC2014, and First Impression datasets from their official websites.
 2. Crop the face from original videos use [face_detect.py](https://github.com/AffectAI/MGNN/blob/main/face_detect.py)
     <details close>
+    <summary>Quick instructions</summary>
 
     ```shell
     pip install pyfacer
