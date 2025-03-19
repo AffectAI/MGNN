@@ -146,4 +146,14 @@ If you find this project useful in your research, please consider cite:
 
 ```BibTeX
 
+@inproceedings{wu2025DepMGNN,
+  title={DepMGNN: Matrixial Graph Neural Network for Video-based Automatic Depression Assessment},
+  author={Wu, Zijian and Zhou, Leijing and Li, Shuanglin and Fu, Changzeng and Lu, Jun and Han, Jing and Zhang, Yi and Zhao, Zhuang and Song, Siyang},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={0},
+  number={0},
+  pages={0},
+  year={2025}
+}
+
 ```
