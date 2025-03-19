@@ -1,9 +1,8 @@
 <div align="center">
     <img src="https://github.com/AffectAI/MGNN/raw/main/resources/AffectAI_logo.png" width="600"/>
     <div>&nbsp;</div>
-    <div align="center">
-    <b><font size="10">DepMGNN: Matrixial Graph Neural Network for Video-based Automatic Depression Assessment</font></b>
-    </div>
+
+# **DepMGNN: Matrixial Graph Neural Network for Video-based Automatic Depression Assessment**
 
 </div>
 
